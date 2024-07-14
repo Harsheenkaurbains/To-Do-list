@@ -1,0 +1,1 @@
+The To-Do List Application project is a simple and efficient task management tool, developed using HTML, CSS, and JavaScript. This project aims to help users organize and prioritize their daily tasks by providing an intuitive interface for creating, managing, and tracking to-do items.
